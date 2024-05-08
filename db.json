@@ -9,10 +9,48 @@
       "id": 3
     }
   ],
-  "albums": [{
-    "id": 10,
-    "title": "Hiking Trip",
-    "userId": 1
-  }],
-  "photos": []
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Bronze Fish",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Handmade Concrete Chair",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Modern Steel Pants",
+      "id": 13
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=51869",
+      "id": 5
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=47896",
+      "id": 6
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=43482",
+      "id": 7
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=27490",
+      "id": 8
+    }
+  ]
 }
